@@ -1,0 +1,194 @@
+  
+*{
+	box-sizing: content-box;
+}
+body {
+	margin-bottom: 120px;
+	margin-top: 4px;
+}
+/* navbar */
+nav {
+	width: 100%;
+}
+section {
+	min-height: 600px;
+}
+.jumbotron {
+	height: 600px;
+}
+.logo {
+	position: relative;
+	left: 40px;
+}
+.navigasi {
+	font-size: 17px;
+	position: relative;
+	font-family: "Inter";
+	left: 600px;
+	top: 0px;
+	padding: 20px;
+	text-decoration: none;
+
+	color: black;
+}
+/* componen */
+.hal1 {
+	height: 800px;
+	width: 100%;
+
+}
+
+.judul {
+	font-family: Amaranth;
+	font-size: 50px;
+	font-weight: bold;
+	line-height: 130%;
+	font-style: normal;
+
+	position: relative;
+	width: 463px;
+	height: 130px;
+	left: 180px;
+	top: 160px;
+	color: #0c0720;
+}
+.paragraf {
+	font-family: Inter;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 180%;
+
+	position: relative;
+	width: 395px;
+	height: 96px;
+	left: 180px;
+	top: 160px;
+
+	color: #7D7791
+}
+.but1 {
+	font-family: "Roboto";
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: #FFFFFF;
+	top: 7px;
+	position: absolute;
+	width: 130px;
+	height: 45px;
+	left: 1140px;
+
+	background: #45caff;
+	border-radius: 10px;
+
+}
+.but2 {
+	font-family: "Inter";
+	font-size: 15px;
+	color: #FFFFFF;
+	font-weight: bold;
+	line-height: 19px;
+
+
+	flex-direction: row;
+	position: relative;
+	width: 205px;
+	height: 54px;
+	left: 180px;
+	top: 160px;
+
+	background: #3c46a5;
+	border-radius: 10px;
+}
+
+.img1 {
+	position: absolute;
+	width: 220px;
+	height: 258px;
+	left: 730px;
+	top: 100px;
+}
+.img2 {
+	position: absolute;
+	width: 327px;
+	height: 360px;
+	left: 835px;
+	top: 185px;
+
+	border-radius: 20px;
+}
+.img3 {
+	position: absolute;
+	width: 250px;
+	height: 300px;
+	left: 1070px;
+	top: 327px;
+}
+.img4 {
+	position: relative;
+	left: 200px;
+	width: 540px;
+	height: 366px;
+	top: 60px;
+}
+.about {
+	font-family: "Inter";
+	font-size: 15px;
+	font-style: normal;
+	color: #08bef5;
+	text-align: center;
+}
+.what {
+	position: relative;
+	font-family: "Amaranth";
+	font-style: normal;
+	font-size: 36px;
+	color: #413960;
+	text-align: center;
+	top: 30px;
+}
+.buy {
+	position: relative;
+	font-family: "Inter"
+	font-weight: bold;
+	font-size: 28px;
+	left: 110px;
+	top: 120px;
+	color: #413960;
+}
+.p {
+	position: relative;
+	font-family: "Inter";
+	font-size: 17px;
+	font-style: normal;
+	color: #000000;
+	text-align: left;
+	left: 150px;
+	top: 120px;
+	color: #7D7791;
+}
+.catalog {
+	background-color: #e3e4e6;
+}
+.cat {
+	position: relative;
+	font-family: "Inter";
+	font-style: normal;
+	font-size: 15px;
+	text-align: center;
+	color: #6255A5;
+	top: 40px;
+}
+.list {
+	position: relative;
+	font-family: "Amaranth";
+	font-style: normal;
+	font-size: 36px;
+	top: 50px;
+	text-align: center;
+	color: #413960;
+}
+.body {
+	background-color: #413960;
+}
